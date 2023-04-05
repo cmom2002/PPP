@@ -1,0 +1,11 @@
+Pão;100;0.20
+Torrada;25;0.80
+Tosta Mista;38;1.20
+Baguete;75;1.70
+Coca-Cola;29;0.75
+Sumol de Laranja;30;0.75
+Sumol de Ananás;30;0.75
+Sprite;30;0.75
+Água;78;0.50
+Chocolates;65;0.85
+Pastelaria Variada;79;0.95
